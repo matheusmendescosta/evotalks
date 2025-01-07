@@ -7,3 +7,5 @@ console.log("third event")
 console.log("fourth event")
 
 console.log("fifth event")
+
+console.log("outro event")
